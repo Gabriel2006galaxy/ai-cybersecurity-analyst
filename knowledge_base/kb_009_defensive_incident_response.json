@@ -1,0 +1,8 @@
+{
+  "knowledge_id": "KB-009",
+  "title": "Defensive Incident Response Lifecycle",
+  "topic": "Incident Response",
+  "incident_types": ["General"],
+  "content": "Defensive incident response typically follows a structured lifecycle: identification of a potential incident, careful investigation and containment planning, coordinated remediation carried out by authorized personnel following the organization's documented procedures, recovery of affected systems, and a lessons-learned review afterward. Automated tools can support this process by surfacing evidence, explaining findings in plain language, and suggesting investigative next steps for the analyst to consider. The decision to take any containment or remediation action always rests with a qualified human responder acting under organizational policy, never with the automated system itself.",
+  "source_type": "analyst_playbook"
+}

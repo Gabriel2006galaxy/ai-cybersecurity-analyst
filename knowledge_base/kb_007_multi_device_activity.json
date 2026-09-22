@@ -1,0 +1,8 @@
+{
+  "knowledge_id": "KB-007",
+  "title": "Multi-Device Anomalous Activity",
+  "topic": "Identity and Access Anomalies",
+  "incident_types": ["Other Anomaly"],
+  "content": "Multi-device anomalous activity is observed when a single user account is associated with an unusually high number of distinct devices within a short period of time. This pattern can indicate shared or compromised credentials, or in some cases simply an unmanaged personal device being used for the first time. Analysts should confirm which devices are recognized and authorized for the user, check whether the additional devices originate from expected locations and networks, and treat an unexplained increase in device count as a signal that supports closer identity verification rather than as conclusive evidence on its own.",
+  "source_type": "defensive_reference"
+}

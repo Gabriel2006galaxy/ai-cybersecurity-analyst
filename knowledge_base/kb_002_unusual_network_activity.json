@@ -1,0 +1,8 @@
+{
+  "knowledge_id": "KB-002",
+  "title": "Unusual Network Activity",
+  "topic": "Network Behavior Anomalies",
+  "incident_types": ["Unusual Network Activity"],
+  "content": "Unusual network activity describes a noticeable deviation from a host's or user's typical network traffic pattern, such as an abnormally high number of outbound requests, connections to unfamiliar destinations, or traffic occurring at unexpected times. This can indicate automated activity, misconfigured software, or early signs of unauthorized network reconnaissance. Analysts should compare the observed request volume and destinations against known baselines for that user or system, correlate the activity with the originating account or service, and review related log entries from the same time window before deciding whether escalation is warranted.",
+  "source_type": "defensive_reference"
+}

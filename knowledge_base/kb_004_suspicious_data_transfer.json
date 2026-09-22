@@ -1,0 +1,8 @@
+{
+  "knowledge_id": "KB-004",
+  "title": "Suspicious Data Transfer and Possible Exfiltration",
+  "topic": "Data Exfiltration",
+  "incident_types": ["Suspicious Data Transfer"],
+  "content": "Suspicious data transfer refers to a volume of outbound data that is significantly larger than what is typical for the user or system involved, which can be an indicator of unauthorized data exfiltration. Analysts reviewing this pattern should examine the destination of the transfer, the type and sensitivity of the data involved, and whether the transfer aligns with a known and expected business process such as a scheduled backup or a routine export. Large transfers that cannot be explained by routine activity should be escalated promptly, with all findings documented so the human analyst can make the final decision about how to proceed.",
+  "source_type": "defensive_reference"
+}

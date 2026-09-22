@@ -1,0 +1,8 @@
+{
+  "knowledge_id": "KB-006",
+  "title": "Off-Hours Privilege Activity",
+  "topic": "Privileged Access Anomalies",
+  "incident_types": ["Other Anomaly"],
+  "content": "Off-hours privilege activity refers to a privilege-related change or elevated-access event that occurs outside of an organization's normal working hours. Because legitimate administrative changes are usually scheduled and documented in advance, unexplained privilege activity at night or on weekends is treated as a higher-risk pattern that warrants closer review. Analysts should verify whether the change was authorized through the organization's normal change-management process, confirm the identity of the requester, and escalate any activity that cannot be corroborated against an approved change record.",
+  "source_type": "defensive_reference"
+}

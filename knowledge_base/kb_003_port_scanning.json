@@ -1,0 +1,8 @@
+{
+  "knowledge_id": "KB-003",
+  "title": "Port Scanning Indicators",
+  "topic": "Network Reconnaissance",
+  "incident_types": ["Port Scanning Indicator"],
+  "content": "Port scanning is a reconnaissance technique in which many network ports on a host are probed in sequence, typically to discover which services are reachable. Indicators include a high request count directed at non-standard ports within a short time span, or an event type consistent with automated scanning tools. While scanning by itself does not compromise a system, it is often an early-warning sign that precedes further investigation of a target. Recommended defensive steps include reviewing network and firewall logs for the source of the activity, confirming whether the scanning was performed by an authorized internal tool such as a vulnerability scanner, and escalating any unexplained scanning activity for analyst review.",
+  "source_type": "defensive_reference"
+}

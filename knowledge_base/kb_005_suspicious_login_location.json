@@ -1,0 +1,8 @@
+{
+  "knowledge_id": "KB-005",
+  "title": "Suspicious Login Location and Impossible Travel",
+  "topic": "Identity and Access Anomalies",
+  "incident_types": ["Suspicious Login"],
+  "content": "A suspicious login location, sometimes called 'impossible travel,' occurs when a user authenticates from a geographic location that is inconsistent with their recent activity or usual pattern, such as logins from distant locations within a timeframe that would not reasonably allow physical travel between them. This is a strong indicator of possible account compromise or shared credentials. Analysts should verify the login directly with the account owner, review the authentication method used for the session, and check for any other anomalous activity originating from the same session before deciding whether to escalate.",
+  "source_type": "defensive_reference"
+}

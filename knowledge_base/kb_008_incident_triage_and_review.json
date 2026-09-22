@@ -1,0 +1,8 @@
+{
+  "knowledge_id": "KB-008",
+  "title": "Incident Triage and Analyst Review",
+  "topic": "Analyst Workflow",
+  "incident_types": ["General"],
+  "content": "Incident triage is the process by which a human analyst reviews the output of automated detection and classification systems to decide what, if anything, should happen next. Good triage practice involves reading the system's evidence and reasoning in full, checking that the classification and severity are supported by the underlying observed data, considering the confidence level and any noted sources of uncertainty, and recording a clear decision such as approving, rejecting, or modifying a recommended response plan. The analyst's own judgment, not any automated system, remains the final authority on how an incident is handled.",
+  "source_type": "analyst_playbook"
+}

@@ -1,0 +1,8 @@
+{
+  "knowledge_id": "KB-001",
+  "title": "Brute-Force Login Activity",
+  "topic": "Authentication Attacks",
+  "incident_types": ["Possible Brute Force"],
+  "content": "Brute-force login activity refers to repeated authentication attempts against a single account or system in a short period of time, often characterized by an unusually high count of failed login events. This pattern is commonly associated with automated credential-guessing attempts rather than a legitimate user simply mistyping a password. Defensive best practice is to review the authentication logs for the affected account and source, confirm whether the account owner recognizes the activity, check whether multi-factor authentication is enabled for the account, and monitor for any successful login immediately following a burst of failures. Analysts should document their findings and escalate confirmed cases through the organization's approved incident response process rather than taking direct action themselves.",
+  "source_type": "defensive_reference"
+}

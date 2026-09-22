@@ -1,0 +1,7 @@
+IMAGE GUIDE
+1. 01_case-analysis-main.png — Case Analysis main screen
+2. 02_ai-case-summary.png — Real Qwen3:1.7B AI Case Summary
+3. 03_why-flagged-rag.png — Why Was This Flagged + Knowledge Base Used by AI
+4. 04_recommended-next-steps.png — Recommended Next Steps + Analyst Decision
+5. 05_review-insights.png — Review & Insights / Case History
+6. 06_audit-trail.png — Review & Insights / Audit Trail

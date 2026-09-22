@@ -1,0 +1,8 @@
+{
+  "knowledge_id": "KB-010",
+  "title": "Security Logging and Monitoring",
+  "topic": "Monitoring and Detection",
+  "incident_types": ["General"],
+  "content": "Effective security logging and monitoring underpin every other defensive capability: without complete, centralized, and retained logs, neither automated detection systems nor human analysts can reliably investigate an incident after the fact. Good practice includes logging authentication events, network connections, data transfers, and privilege changes; retaining logs long enough to support later investigation; and regularly reviewing detection rules and alert thresholds so that monitoring stays aligned with how the environment actually behaves over time rather than growing stale.",
+  "source_type": "monitoring_reference"
+}
